@@ -112,6 +112,133 @@
         }
       ]
     },
+    "schedule": {
+      "eyebrow": "Weekly Schedule",
+      "title": "Plan your week with us",
+      "subtitle": "A full week of reformer, mat and private sessions timed around the workday.",
+      "days": [
+        {
+          "day": "Monday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Fundamentals",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            },
+            {
+              "time": "6:00 PM",
+              "name": "Reformer Flow",
+              "instructor": "James Okafor"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "classes": [
+            {
+              "time": "6:30 AM",
+              "name": "Reformer Flow",
+              "instructor": "James Okafor"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Private Sessions",
+              "instructor": "James Okafor"
+            },
+            {
+              "time": "7:00 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Fundamentals",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            },
+            {
+              "time": "6:30 PM",
+              "name": "Reformer Flow",
+              "instructor": "Elena Marsh"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "classes": [
+            {
+              "time": "6:30 AM",
+              "name": "Reformer Flow",
+              "instructor": "James Okafor"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Private Sessions",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "7:00 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Fundamentals",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            },
+            {
+              "time": "6:00 PM",
+              "name": "Reformer Flow",
+              "instructor": "James Okafor"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "classes": [
+            {
+              "time": "8:00 AM",
+              "name": "Reformer Fundamentals",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "9:30 AM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            },
+            {
+              "time": "11:00 AM",
+              "name": "Private Sessions",
+              "instructor": "James Okafor"
+            }
+          ]
+        }
+      ]
+    },
     "testimonials": {
       "eyebrow": "Client Notes",
       "title": "What members say",
@@ -189,7 +316,8 @@
       "classLabel": "Preferred class",
       "submitLabel": "Reserve my spot",
       "successTitle": "You're booked.",
-      "successMessage": "Check your inbox, we've sent class times and studio directions."
+      "successMessage": "Check your inbox, we've sent class times and studio directions.",
+      "successBody": "Check your email to access your free week of classes. Start anytime!"
     },
     "contact": {
       "eyebrow": "Visit The Studio",

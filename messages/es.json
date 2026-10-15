@@ -10,7 +10,7 @@
     "primary": "Comenzar prueba gratuita"
   },
   "footer": {
-    "tagline": "Movimiento tranquilo y consciente para profesionales ocupados",
+    "tagline": "Movimiento tranquilo y deliberado para profesionales ocupados",
     "rights": "Todos los derechos reservados.",
     "columns": {
       "studio": "Estudio",
@@ -33,7 +33,7 @@
       "subtitle": "Northside Pilates combina entrenamiento en reformer y mat en clases pequeñas y enfocadas diseñadas para adaptarse a tu calendario, no al revés.",
       "primaryCta": "Reserva tu clase de prueba gratuita",
       "secondaryCta": "Ver tipos de clases",
-      "badgeLabel": "Máx 8",
+      "badgeLabel": "Máx. 8",
       "badgeSub": "Por clase, siempre"
     },
     "values": {
@@ -62,7 +62,7 @@
     "classTypes": {
       "eyebrow": "Tipos de clases",
       "title": "Encuentra tu ritmo",
-      "subtitle": "Cada clase está limitada a ocho personas, así que recibes atención personalizada sin importar qué formato elijas.",
+      "subtitle": "Cada clase está limitada a ocho personas, por lo que recibes atención personalizada sin importar qué formato elijas.",
       "items": [
         {
           "title": "Reformer Fundamentals",
@@ -93,7 +93,7 @@
     "instructors": {
       "eyebrow": "Instructores",
       "title": "Enseñado por personas que han hecho el trabajo",
-      "subtitle": "Las clases pequeñas significan coaching real. Cada instructor en Northside está certificado y entrenado para enseñar a la persona frente a ellos, no a un guión.",
+      "subtitle": "Las clases pequeñas significan coaching real. Cada instructor en Northside está certificado y capacitado para enseñar a la persona frente a ellos, no a un guión.",
       "items": [
         {
           "name": "Elena Marsh",
@@ -112,9 +112,136 @@
         }
       ]
     },
+    "schedule": {
+      "eyebrow": "Horario semanal",
+      "title": "Planifica tu semana con nosotros",
+      "subtitle": "Una semana completa de sesiones de reformer, mat y privadas programadas alrededor de la jornada laboral.",
+      "days": [
+        {
+          "day": "Monday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Fundamentals",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            },
+            {
+              "time": "6:00 PM",
+              "name": "Reformer Flow",
+              "instructor": "James Okafor"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "classes": [
+            {
+              "time": "6:30 AM",
+              "name": "Reformer Flow",
+              "instructor": "James Okafor"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Private Sessions",
+              "instructor": "James Okafor"
+            },
+            {
+              "time": "7:00 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Fundamentals",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            },
+            {
+              "time": "6:30 PM",
+              "name": "Reformer Flow",
+              "instructor": "Elena Marsh"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "classes": [
+            {
+              "time": "6:30 AM",
+              "name": "Reformer Flow",
+              "instructor": "James Okafor"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Private Sessions",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "7:00 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "classes": [
+            {
+              "time": "6:00 AM",
+              "name": "Reformer Fundamentals",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "12:15 PM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            },
+            {
+              "time": "6:00 PM",
+              "name": "Reformer Flow",
+              "instructor": "James Okafor"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "classes": [
+            {
+              "time": "8:00 AM",
+              "name": "Reformer Fundamentals",
+              "instructor": "Elena Marsh"
+            },
+            {
+              "time": "9:30 AM",
+              "name": "Mat & Core",
+              "instructor": "Priya Nandan"
+            },
+            {
+              "time": "11:00 AM",
+              "name": "Private Sessions",
+              "instructor": "James Okafor"
+            }
+          ]
+        }
+      ]
+    },
     "testimonials": {
       "eyebrow": "Comentarios de clientes",
-      "title": "Lo que dicen los miembros",
+      "title": "Qué dicen nuestros miembros",
       "items": [
         {
           "quote": "I can get a full class in before my 9am meeting and still feel human for the rest of the day.",
@@ -136,7 +263,7 @@
     "pricing": {
       "eyebrow": "Precios",
       "title": "Opciones de membresía simples",
-      "subtitle": "Elige un plan que se ajuste a la frecuencia con la que realísticamente puedas asistir. Cambia en cualquier momento.",
+      "subtitle": "Elige un plan que se adapte a la frecuencia con la que realísticamente puedas asistir. Cambia cuando quieras.",
       "badge": "Más popular",
       "plans": [
         {
@@ -179,7 +306,7 @@
       ]
     },
     "freeTrial": {
-      "eyebrow": "Prueba gratuita",
+      "eyebrow": "Prueba Gratuita",
       "title": "Tu primera clase es por nuestra cuenta",
       "subtitle": "Cuéntanos un poco sobre ti y reservaremos un lugar en la clase que se ajuste a tu horario.",
       "nameLabel": "Nombre completo",
@@ -188,13 +315,14 @@
       "emailPlaceholder": "you@company.com",
       "classLabel": "Clase preferida",
       "submitLabel": "Reservar mi lugar",
-      "successTitle": "Ya estás reservado.",
-      "successMessage": "Revisa tu bandeja de entrada, hemos enviado los horarios de clase y las indicaciones del estudio."
+      "successTitle": "Estás reservado.",
+      "successMessage": "Revisa tu bandeja de entrada, hemos enviado los horarios de las clases e indicaciones del estudio.",
+      "successBody": "Revisa tu correo electrónico para acceder a tu semana gratuita de clases. ¡Comienza cuando quieras!"
     },
     "contact": {
       "eyebrow": "Visita el Estudio",
       "title": "Encuéntranos en el Distrito Financiero",
-      "subtitle": "Pasa antes de tu clase de prueba, o simplemente para ver el espacio. Nos encantará mostrarte alrededor.",
+      "subtitle": "Pasa antes de tu clase de prueba, o solo para ver el espacio. Nos encantará mostrarte alrededor.",
       "addressLabel": "Dirección del estudio",
       "address": "214 Bay Street, Suite 2B, Financial District",
       "hoursLabel": "Horario del estudio",
