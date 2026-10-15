@@ -1,0 +1,206 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "classes": "Clases",
+    "instructors": "Instructores",
+    "pricing": "Precios",
+    "contact": "Contacto"
+  },
+  "cta": {
+    "primary": "Comenzar prueba gratuita"
+  },
+  "footer": {
+    "tagline": "Movimiento tranquilo y consciente para profesionales ocupados",
+    "rights": "Todos los derechos reservados.",
+    "columns": {
+      "studio": "Estudio",
+      "visit": "Visita"
+    },
+    "links": {
+      "classes": "Clases",
+      "instructors": "Instructores",
+      "pricing": "Precios",
+      "contact": "Contacto",
+      "freeTrial": "Prueba gratuita"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Estudio de Pilates boutique",
+      "titleBefore": "Muévete con ",
+      "titleHighlight": "intención",
+      "titleAfter": ", incluso en tu semana más ocupada.",
+      "subtitle": "Northside Pilates combina entrenamiento en reformer y mat en clases pequeñas y enfocadas diseñadas para adaptarse a tu calendario, no al revés.",
+      "primaryCta": "Reserva tu clase de prueba gratuita",
+      "secondaryCta": "Ver tipos de clases",
+      "badgeLabel": "Máx 8",
+      "badgeSub": "Por clase, siempre"
+    },
+    "values": {
+      "eyebrow": "Por qué Northside",
+      "title": "Diseñado para calendarios ocupados",
+      "subtitle": "Diseñamos el estudio alrededor de cómo viven realmente los profesionales ocupados, no alrededor de un horario rígido.",
+      "items": [
+        {
+          "title": "Early and late class times",
+          "description": "Sessions start at 6am and run through 8:30pm, so a class fits before work, at lunch, or on the way home."
+        },
+        {
+          "title": "Lunch-length options",
+          "description": "Our 45-minute Lunch Express class is built to start and end inside a standard midday break."
+        },
+        {
+          "title": "No long-term contracts",
+          "description": "Pause, adjust, or cancel your membership whenever your schedule changes. Nothing is locked in."
+        },
+        {
+          "title": "Locker, towel and shower service",
+          "description": "Come straight from the office and head back looking and feeling put together."
+        }
+      ]
+    },
+    "classTypes": {
+      "eyebrow": "Tipos de clases",
+      "title": "Encuentra tu ritmo",
+      "subtitle": "Cada clase está limitada a ocho personas, así que recibes atención personalizada sin importar qué formato elijas.",
+      "items": [
+        {
+          "title": "Reformer Fundamentals",
+          "description": "Build strength and control on the reformer with precise, low-impact sequences. Ideal if you're new to Pilates or returning after time away."
+        },
+        {
+          "title": "Reformer Flow",
+          "description": "A faster-paced reformer class linking movement with breath for a full-body, higher-energy session."
+        },
+        {
+          "title": "Mat & Core",
+          "description": "Classic mat work focused on core stability and posture, the deep muscles a day at a desk tends to neglect."
+        },
+        {
+          "title": "Private Sessions",
+          "description": "One-to-one coaching tailored to injury recovery, a specific goal, or simply your own pace."
+        },
+        {
+          "title": "Lunch Express (45)",
+          "description": "A condensed 45-minute reformer class designed to fit neatly into a midday break."
+        },
+        {
+          "title": "Prenatal Pilates",
+          "description": "Gentle, trimester-appropriate movement guided by instructors trained in prenatal care."
+        }
+      ]
+    },
+    "instructors": {
+      "eyebrow": "Instructores",
+      "title": "Enseñado por personas que han hecho el trabajo",
+      "subtitle": "Las clases pequeñas significan coaching real. Cada instructor en Northside está certificado y entrenado para enseñar a la persona frente a ellos, no a un guión.",
+      "items": [
+        {
+          "name": "Elena Marsh",
+          "role": "Studio Director & Senior Instructor",
+          "bio": "Trained in classical and contemporary Pilates over twelve years, Elena designs every reformer program at Northside."
+        },
+        {
+          "name": "James Okafor",
+          "role": "Reformer & Private Sessions",
+          "bio": "A former physiotherapist, James specializes in rehabilitation-focused programming for desk-bound professionals."
+        },
+        {
+          "name": "Priya Nandan",
+          "role": "Mat & Prenatal Lead",
+          "bio": "Priya has guided clients through safe, supportive movement before and after birth for over eight years."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Comentarios de clientes",
+      "title": "Lo que dicen los miembros",
+      "items": [
+        {
+          "quote": "I can get a full class in before my 9am meeting and still feel human for the rest of the day.",
+          "name": "Marcus Webb",
+          "role": "Corporate Counsel"
+        },
+        {
+          "quote": "The Lunch Express class is the only reason I still take a real lunch break.",
+          "name": "Sana Qureshi",
+          "role": "Product Manager"
+        },
+        {
+          "quote": "Small classes make a real difference. The instructors actually correct your form instead of just counting reps.",
+          "name": "David Chen",
+          "role": "Investment Analyst"
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Precios",
+      "title": "Opciones de membresía simples",
+      "subtitle": "Elige un plan que se ajuste a la frecuencia con la que realísticamente puedas asistir. Cambia en cualquier momento.",
+      "badge": "Más popular",
+      "plans": [
+        {
+          "name": "Drop-In",
+          "price": "$42",
+          "period": "per class",
+          "description": "Try any class with no commitment.",
+          "features": [
+            "Single class entry",
+            "Any class type",
+            "Online booking"
+          ],
+          "ctaLabel": "Book a class"
+        },
+        {
+          "name": "Unlimited Monthly",
+          "price": "$265",
+          "period": "per month",
+          "description": "For the people who come in two or more times a week.",
+          "features": [
+            "Unlimited classes",
+            "Priority booking window",
+            "Bring a friend once a month",
+            "Locker, towel & shower service"
+          ],
+          "ctaLabel": "Start unlimited"
+        },
+        {
+          "name": "Executive 8-Pack",
+          "price": "$320",
+          "period": "per 8 classes, 90 days",
+          "description": "Flexible credits for a lighter, irregular schedule.",
+          "features": [
+            "8 class credits",
+            "Mix reformer and mat freely",
+            "Transferable to colleagues"
+          ],
+          "ctaLabel": "Buy the pack"
+        }
+      ]
+    },
+    "freeTrial": {
+      "eyebrow": "Prueba gratuita",
+      "title": "Tu primera clase es por nuestra cuenta",
+      "subtitle": "Cuéntanos un poco sobre ti y reservaremos un lugar en la clase que se ajuste a tu horario.",
+      "nameLabel": "Nombre completo",
+      "namePlaceholder": "Jordan Lee",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "you@company.com",
+      "classLabel": "Clase preferida",
+      "submitLabel": "Reservar mi lugar",
+      "successTitle": "Ya estás reservado.",
+      "successMessage": "Revisa tu bandeja de entrada, hemos enviado los horarios de clase y las indicaciones del estudio."
+    },
+    "contact": {
+      "eyebrow": "Visita el Estudio",
+      "title": "Encuéntranos en el Distrito Financiero",
+      "subtitle": "Pasa antes de tu clase de prueba, o simplemente para ver el espacio. Nos encantará mostrarte alrededor.",
+      "addressLabel": "Dirección del estudio",
+      "address": "214 Bay Street, Suite 2B, Financial District",
+      "hoursLabel": "Horario del estudio",
+      "hours": "Lun-Vie 6:00am-8:00pm, Sáb 8:00am-1:00pm, Dom cerrado",
+      "emailLabel": "Correo electrónico",
+      "email": "hello@northsidepilates.studio"
+    }
+  }
+}

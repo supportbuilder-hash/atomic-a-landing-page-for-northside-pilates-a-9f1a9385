@@ -1,0 +1,206 @@
+{
+  "nav": {
+    "home": "Home",
+    "classes": "Classes",
+    "instructors": "Instructors",
+    "pricing": "Pricing",
+    "contact": "Contact"
+  },
+  "cta": {
+    "primary": "Start Free Trial"
+  },
+  "footer": {
+    "tagline": "Calm, considered movement for busy professionals",
+    "rights": "All rights reserved.",
+    "columns": {
+      "studio": "Studio",
+      "visit": "Visit"
+    },
+    "links": {
+      "classes": "Classes",
+      "instructors": "Instructors",
+      "pricing": "Pricing",
+      "contact": "Contact",
+      "freeTrial": "Free Trial"
+    }
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Boutique Pilates Studio",
+      "titleBefore": "Move with ",
+      "titleHighlight": "intention",
+      "titleAfter": ", even on your busiest week.",
+      "subtitle": "Northside Pilates blends reformer and mat training in small, focused classes designed to fit around your calendar, not the other way around.",
+      "primaryCta": "Book your free trial class",
+      "secondaryCta": "View class types",
+      "badgeLabel": "Max 8",
+      "badgeSub": "Per class, every time"
+    },
+    "values": {
+      "eyebrow": "Why Northside",
+      "title": "Built for packed calendars",
+      "subtitle": "We designed the studio around how busy professionals actually live, not around a rigid schedule.",
+      "items": [
+        {
+          "title": "Early and late class times",
+          "description": "Sessions start at 6am and run through 8:30pm, so a class fits before work, at lunch, or on the way home."
+        },
+        {
+          "title": "Lunch-length options",
+          "description": "Our 45-minute Lunch Express class is built to start and end inside a standard midday break."
+        },
+        {
+          "title": "No long-term contracts",
+          "description": "Pause, adjust, or cancel your membership whenever your schedule changes. Nothing is locked in."
+        },
+        {
+          "title": "Locker, towel and shower service",
+          "description": "Come straight from the office and head back looking and feeling put together."
+        }
+      ]
+    },
+    "classTypes": {
+      "eyebrow": "Class Types",
+      "title": "Find your rhythm",
+      "subtitle": "Every class is capped at eight people, so you get hands-on attention no matter which format you choose.",
+      "items": [
+        {
+          "title": "Reformer Fundamentals",
+          "description": "Build strength and control on the reformer with precise, low-impact sequences. Ideal if you're new to Pilates or returning after time away."
+        },
+        {
+          "title": "Reformer Flow",
+          "description": "A faster-paced reformer class linking movement with breath for a full-body, higher-energy session."
+        },
+        {
+          "title": "Mat & Core",
+          "description": "Classic mat work focused on core stability and posture, the deep muscles a day at a desk tends to neglect."
+        },
+        {
+          "title": "Private Sessions",
+          "description": "One-to-one coaching tailored to injury recovery, a specific goal, or simply your own pace."
+        },
+        {
+          "title": "Lunch Express (45)",
+          "description": "A condensed 45-minute reformer class designed to fit neatly into a midday break."
+        },
+        {
+          "title": "Prenatal Pilates",
+          "description": "Gentle, trimester-appropriate movement guided by instructors trained in prenatal care."
+        }
+      ]
+    },
+    "instructors": {
+      "eyebrow": "Instructors",
+      "title": "Taught by people who've done the work",
+      "subtitle": "Small classes mean real coaching. Every instructor at Northside is certified and trained to teach to the person in front of them, not a script.",
+      "items": [
+        {
+          "name": "Elena Marsh",
+          "role": "Studio Director & Senior Instructor",
+          "bio": "Trained in classical and contemporary Pilates over twelve years, Elena designs every reformer program at Northside."
+        },
+        {
+          "name": "James Okafor",
+          "role": "Reformer & Private Sessions",
+          "bio": "A former physiotherapist, James specializes in rehabilitation-focused programming for desk-bound professionals."
+        },
+        {
+          "name": "Priya Nandan",
+          "role": "Mat & Prenatal Lead",
+          "bio": "Priya has guided clients through safe, supportive movement before and after birth for over eight years."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Client Notes",
+      "title": "What members say",
+      "items": [
+        {
+          "quote": "I can get a full class in before my 9am meeting and still feel human for the rest of the day.",
+          "name": "Marcus Webb",
+          "role": "Corporate Counsel"
+        },
+        {
+          "quote": "The Lunch Express class is the only reason I still take a real lunch break.",
+          "name": "Sana Qureshi",
+          "role": "Product Manager"
+        },
+        {
+          "quote": "Small classes make a real difference. The instructors actually correct your form instead of just counting reps.",
+          "name": "David Chen",
+          "role": "Investment Analyst"
+        }
+      ]
+    },
+    "pricing": {
+      "eyebrow": "Pricing",
+      "title": "Simple membership options",
+      "subtitle": "Pick a plan that matches how often you can realistically make it in. Switch any time.",
+      "badge": "Most popular",
+      "plans": [
+        {
+          "name": "Drop-In",
+          "price": "$42",
+          "period": "per class",
+          "description": "Try any class with no commitment.",
+          "features": [
+            "Single class entry",
+            "Any class type",
+            "Online booking"
+          ],
+          "ctaLabel": "Book a class"
+        },
+        {
+          "name": "Unlimited Monthly",
+          "price": "$265",
+          "period": "per month",
+          "description": "For the people who come in two or more times a week.",
+          "features": [
+            "Unlimited classes",
+            "Priority booking window",
+            "Bring a friend once a month",
+            "Locker, towel & shower service"
+          ],
+          "ctaLabel": "Start unlimited"
+        },
+        {
+          "name": "Executive 8-Pack",
+          "price": "$320",
+          "period": "per 8 classes, 90 days",
+          "description": "Flexible credits for a lighter, irregular schedule.",
+          "features": [
+            "8 class credits",
+            "Mix reformer and mat freely",
+            "Transferable to colleagues"
+          ],
+          "ctaLabel": "Buy the pack"
+        }
+      ]
+    },
+    "freeTrial": {
+      "eyebrow": "Free Trial",
+      "title": "Your first class is on us",
+      "subtitle": "Tell us a bit about yourself and we'll hold a spot in the class that fits your schedule.",
+      "nameLabel": "Full name",
+      "namePlaceholder": "Jordan Lee",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "you@company.com",
+      "classLabel": "Preferred class",
+      "submitLabel": "Reserve my spot",
+      "successTitle": "You're booked.",
+      "successMessage": "Check your inbox, we've sent class times and studio directions."
+    },
+    "contact": {
+      "eyebrow": "Visit The Studio",
+      "title": "Find us in the Financial District",
+      "subtitle": "Drop by before your trial class, or just to see the space. We're happy to show you around.",
+      "addressLabel": "Studio address",
+      "address": "214 Bay Street, Suite 2B, Financial District",
+      "hoursLabel": "Studio hours",
+      "hours": "Mon-Fri 6:00am-8:00pm, Sat 8:00am-1:00pm, Sun closed",
+      "emailLabel": "Email",
+      "email": "hello@northsidepilates.studio"
+    }
+  }
+}

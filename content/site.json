@@ -1,0 +1,56 @@
+{
+  "brand": {
+    "name": "Northside Pilates",
+    "tagline": "Calm, considered movement for busy professionals",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "classes",
+      "href": "#class-types"
+    },
+    {
+      "key": "instructors",
+      "href": "#instructors"
+    },
+    {
+      "key": "pricing",
+      "href": "#pricing"
+    },
+    {
+      "key": "contact",
+      "href": "#contact"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "#free-trial"
+  },
+  "footerColumns": [
+    {
+      "key": "studio",
+      "links": [
+        { "key": "classes", "href": "#class-types" },
+        { "key": "instructors", "href": "#instructors" },
+        { "key": "pricing", "href": "#pricing" }
+      ]
+    },
+    {
+      "key": "visit",
+      "links": [
+        { "key": "contact", "href": "#contact" },
+        { "key": "freeTrial", "href": "#free-trial" }
+      ]
+    }
+  ],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 4
+  },
+  "navbarVariant": "split",
+  "footerVariant": "columns"
+}
